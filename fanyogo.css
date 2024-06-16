@@ -50,12 +50,12 @@ body{
 
 section:nth-of-type(2), section:nth-of-type(3), section:nth-of-type(4),section:nth-of-type(5),section:nth-of-type(6){
     h2{
-        color: #EA1C2C;
+        color: red;
         font-weight: 100;
         font-size: 2.5rem;
     }
     p{
-        color: #EA1C2C;
+        color: red;
         font-weight: 100;
         font-size: 1.5rem;
         line-height: 2;
