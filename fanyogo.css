@@ -49,7 +49,7 @@ body{
     transition: background 500ms;
 }
 
-section:nth-of-type(2), section:nth-of-type(3), section:nth-of-type(4),section:nth-of-type(5),section:nth-of-type(6),section:nth-of-type(7),section:nth-of-type(8){
+section:nth-of-type(2), section:nth-of-type(3), section:nth-of-type(4),section:nth-of-type(5),section:nth-of-type(6),section:nth-of-type(7),section:nth-of-type(8),section:nth-of-type(9){
     h2{
         color: red;
         font-weight: 100;
